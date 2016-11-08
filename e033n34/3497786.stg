@@ -1,0 +1,9 @@
+OBJECT_SHARED Models/Airport/ndb.ac 33.732842 34.982231 0 180
+OBJECT_SHARED Models/Power/windturbine.xml 33.518638 34.87508 198.02 0
+OBJECT_SHARED Models/Power/windturbine.xml 33.522543 34.877404 188.55 0
+OBJECT_SHARED Models/Power/windturbine.xml 33.525525 34.881664 148.72 0
+OBJECT_SHARED Models/Power/windturbine.xml 33.529281 34.885184 116.1 0
+OBJECT_SHARED Models/Power/windturbine.xml 33.531491 34.87545 140.24 0
+OBJECT_SHARED Models/Power/windturbine.xml 33.5328 34.885205 92.88 0
+OBJECT_SHARED Models/Airport/ils.xml 33.6325 34.879833 2.44 134.27
+OBJECT_SHARED Models/Communications/vordme_1.xml 33.6325 34.879833 2.44 180
