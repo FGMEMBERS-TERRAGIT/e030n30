@@ -83,3 +83,11 @@ OBJECT_SHARED Models/Airport/Apronlamp16m360degparkstand.xml 31.396544 30.104538
 OBJECT_SHARED Models/Airport/Apronlamp16m360degparkstand.xml 31.396716 30.103981 112.54 0
 OBJECT_STATIC hecatw.ac 31.40649692 30.11509244 97.46 0
 OBJECT_STATIC hecat3.ac 31.39641251 30.1112944 104.40 100
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/jetway_e16m.ac 31.39656 30.10722 102.83 19.86
+OBJECT_SHARED Models/lib/jetway_e16m.ac 31.39637 30.10786 101.38 19.86
+OBJECT_SHARED Models/lib/jetway_e16m.ac 31.39617 30.10852 100.09 19.86
+OBJECT_SHARED Models/lib/jetway_e16m.ac 31.39597 30.10915 98.81 19.86
+# END dsf2stg
